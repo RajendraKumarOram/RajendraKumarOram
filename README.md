@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RajendraKumarOram
-- 👀 I’m interested in Data Scientist
+- 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Data Scientist projects
 - 📫 How to reach me Email: rajendraoram1998@gmail.com
