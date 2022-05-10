@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RajendraKumarOram
 - 👀 I’m interested in Data Science
-- 🌱 I have completed online certification course Data Science with Python
-- 💞️ I’m looking to collaborate on Data Sciences projects
+- 🌱 I have completed online certification course Data Science with Python and Power BI.
+- 💞️ I’m looking to collaborate on Data Analytics.
 - 📫 How to reach me Email: rajendraoram1998@gmail.com
 
 <!---
