@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rajendra Kumar Oram
 - 👀 I’m interested in Data Science & Analytics.
-- 🌱 I have completed online certification course Data Science with Python and Power BI.
+- Skilled in Power BI. Excel. Apache Superset, SQL.
 - 💞️ I’m looking for Data Analytics or Business Intelligence's jobs.
 - 📫 How to reach me Email: rajendraoram1998@gmail.com
 
